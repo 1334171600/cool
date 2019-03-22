@@ -1,0 +1,9 @@
+<litepal>
+    <dbname value="cool"/>
+    <version value="1"/>
+    <list>
+        <mapping class="com.example.zj.cool.db.Province"/>
+        <mapping class="com.example.zj.cool.db.City"/>
+        <mapping class="com.example.zj.cool.db.County"/>
+    </list>
+</litepal>
